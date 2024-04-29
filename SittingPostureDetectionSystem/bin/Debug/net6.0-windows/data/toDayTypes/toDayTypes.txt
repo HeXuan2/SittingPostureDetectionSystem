@@ -1,0 +1,1 @@
+{"LowHeadCnt":170,"WryNeckCnt":155,"StretchNeckCnt":307,"HunchCnt":411,"CrossLegCnt":351}

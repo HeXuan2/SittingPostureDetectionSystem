@@ -1,0 +1,1 @@
+{"NormalTime":0.58,"AbnormalTime":18.36}
